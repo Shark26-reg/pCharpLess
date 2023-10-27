@@ -1,0 +1,14 @@
+C:\Users\Roman\Desktop\dz\plessoncharp\less2\bin\Debug\net7.0\less2.exe
+C:\Users\Roman\Desktop\dz\plessoncharp\less2\bin\Debug\net7.0\less2.deps.json
+C:\Users\Roman\Desktop\dz\plessoncharp\less2\bin\Debug\net7.0\less2.runtimeconfig.json
+C:\Users\Roman\Desktop\dz\plessoncharp\less2\bin\Debug\net7.0\less2.dll
+C:\Users\Roman\Desktop\dz\plessoncharp\less2\bin\Debug\net7.0\less2.pdb
+C:\Users\Roman\Desktop\dz\plessoncharp\less2\obj\Debug\net7.0\less2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\Desktop\dz\plessoncharp\less2\obj\Debug\net7.0\less2.AssemblyInfoInputs.cache
+C:\Users\Roman\Desktop\dz\plessoncharp\less2\obj\Debug\net7.0\less2.AssemblyInfo.cs
+C:\Users\Roman\Desktop\dz\plessoncharp\less2\obj\Debug\net7.0\less2.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\dz\plessoncharp\less2\obj\Debug\net7.0\less2.dll
+C:\Users\Roman\Desktop\dz\plessoncharp\less2\obj\Debug\net7.0\refint\less2.dll
+C:\Users\Roman\Desktop\dz\plessoncharp\less2\obj\Debug\net7.0\less2.pdb
+C:\Users\Roman\Desktop\dz\plessoncharp\less2\obj\Debug\net7.0\less2.genruntimeconfig.cache
+C:\Users\Roman\Desktop\dz\plessoncharp\less2\obj\Debug\net7.0\ref\less2.dll
